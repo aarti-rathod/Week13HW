@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/User/Desktop/startbucks-pagefactory/src/test/TestSuit.java(failed)">
+    <groups>
+      <run>
+        <include name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="test.TestSuit">
+        <methods>
+          <include name="userShouldAbleToSelectTopBarSuccessfully"/>
+        </methods>
+      </class> <!-- test.TestSuit -->
+    </classes>
+  </test> <!-- C:/Users/User/Desktop/startbucks-pagefactory/src/test/TestSuit.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
